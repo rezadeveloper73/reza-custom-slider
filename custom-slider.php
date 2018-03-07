@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Reza Custom Slider
+Plugin Name: Saoshyant Custom Slider
 Description: The custom slider plugin.
-Author: rezadeveloper
+Author: saoshyant
 */ 
 /*********************************************************************************************
 Registers Custom Slider Post Type
